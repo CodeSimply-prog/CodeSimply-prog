@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, It's CodeSimply</h1>
 <h3 align="center">Java Tutorials | Programming made easy</h3>
-<p align="left">💻 Learn Java: Basic to Advanced 📚 Bite-sized tips & projects 🎥 Tutorials on Reels + IGTV 🌟 Start your coding journey now! Free Java Guide & Resources</p>
+<p align="left">💻 Learn Java: Basic to Advanced 📚 Bite-sized tips & projects 🎥 Tutorials on Reels and YouTube 🌟 Start your coding journey now! Free Java Guide & Resources</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesimply-prog&label=Profile%20views&color=0e75b6&style=flat" alt="codesimply-prog" /> </p>
 
